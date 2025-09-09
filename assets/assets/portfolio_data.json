@@ -16,7 +16,7 @@
   "projects": [
     {
       "title": "SAM",
-      "image": "assets/sam_il_announcement.png",
+      "image": "assets/sam_il_announcement.webp",
       "image_normalization_method": "normalize_to_width",
       "purpose": "SAM was already an existing product when I joined IL. However, one of my first projects was to improve SAM’s personality, usefulness, and reliability.",
       "details": "This improvement came in two parts. The first part was prompt engineering—giving SAM better context of the app it was built in, which dramatically improved its usefulness and relevance. The second was API parameter tuning, specifically reducing the temperature for more predictable and consistent results.",
